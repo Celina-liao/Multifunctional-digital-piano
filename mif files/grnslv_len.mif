@@ -1,0 +1,57 @@
+-- Copyright (C) 2017  Intel Corporation. All rights reserved.
+-- Your use of Intel Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Intel Program License 
+-- Subscription Agreement, the Intel Quartus Prime License Agreement,
+-- the Intel MegaCore Function License Agreement, or other 
+-- applicable license agreement, including, without limitation, 
+-- that your use is for the sole purpose of programming logic 
+-- devices manufactured by Intel and sold by Intel or its 
+-- authorized distributors.  Please refer to the applicable 
+-- agreement for further details.
+
+-- Quartus Prime generated Memory Initialization File (.mif)
+
+WIDTH=2;
+DEPTH=64;
+
+ADDRESS_RADIX=UNS;
+DATA_RADIX=UNS;
+
+CONTENT BEGIN
+	0   :   1;
+	1   :   2;
+	[2..3]  :   1;
+	[4..5]  :   0;
+	6   :   1;
+	7   :   2;
+	[8..9]  :   1;
+	[10..11]  :   0;
+	12  :   1;
+	13  :   2;
+	[14..15]  :   1;
+	[16..17]  :   0;
+	18  :   1;
+	19  :   2;
+	20  :   1;
+	21  :   2;
+	22  :   1;
+	[23..24]  :   2;
+	[25..26]  :   1;
+	[27..28]  :   0;
+	29  :   1;
+	30  :   2;
+	31  :   1;
+	32  :   2;
+	[33..34]  :   0;
+	35  :   1;
+	[36..37]  :   0;
+	[38..39]  :   1;
+	[40..41]  :   0;
+	42  :   1;
+	43  :   3;
+	[44..63]  :   0;
+END;
